@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -33,6 +35,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '2'
+  view: showcase
+  columns: '5'
 ---

@@ -5,26 +5,58 @@
 
 main:
   - name: Home
+    weight: 10
+    identifier: Home
+  - name: About Me
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+    parent: Home
+  - name: Experience
+    url: '#experience'
     weight: 20
-  - name: Projects
-    url: '#projects'
+    parent: Home
+  - name: Honors & Awards
+    url: '#accomplishments'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+    parent: Home
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 20
+  - name: Research
+    url: '#research-agenda'
+    weight: 30
   - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
+    url: '#publications'
+    weight: 40
+  - name: Teaching
+    url: '#teaching'
     weight: 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Outreach
+    url: '#outreach'
+    weight: 70
+  - name: Press
+    url: '#press'
+    weight: 80
+  - name: Blog
+    url: '#blog'
+    weight: 90
+  - name: Contact
+    weight: 100
+    identifier: Contact
+  - name: Consulting
+    url: '#consulting'
+    weight: 10
+    parent: Contact
+  - name: Industry Collaboration
+    url: '#industry-collaboration'
+    weight: 20
+    parent: Contact
+  - name: Outreach Request
+    url: '#outreach-request'
+    weight: 30
+    parent: Contact
+  - name: Other
+    url: '#other'
+    weight: 40
+    parent: Contact
+  
