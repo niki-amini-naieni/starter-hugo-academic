@@ -4,7 +4,7 @@ title: Learning about the Cornell, Maryland, and Max Planck Pre-Doctoral Researc
 tags:
 
 date: '2020-10-14T00:00:00Z'
-summary: 'When CS News caught up with Tisch University Professor of Computer Science, Lorenzo Alvisi, to learn about his work on a sponsored pre-doctoral research summer school that he runs in collaboration with an international team, not surprisingly, he has the recent or prospective undergraduate student in mind: “You have chosen to major in CS. Great choice—so many opportunities! But what do you want to do in ten years? And who do you want to be?'
+summary: 'When CS News caught up with Tisch University Professor of Computer Science, Lorenzo Alvisi, to learn about his work on a sponsored pre-doctoral research summer school that he runs in collaboration with an international team, not surprisingly, he has the recent or prospective undergraduate student in mind: “You have chosen to major in CS. Great choice—so many opportunities! But what do you want to do in ten years? And who do you want to be?"'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
