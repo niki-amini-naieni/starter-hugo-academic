@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Machine Learning Research Assistant | Intern
+  - title: Deep Learning Research Assistant | Intern
     company: Torr Vision Group, University of Oxford 
     company_url: https://torrvision.com/
     company_logo: tvg
@@ -30,7 +30,7 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
-      Working with collaborators to develop a novel domain generalization algorithm that adversarially trains a deep learning model to learn data augmentations. Developing all software for experiments and writing paper to submit to upcoming ICML workshop on distribution shifts. 
+      Working with collaborators to develop a novel domain generalization algorithm that adversarially learns to generate data augmentations. Developing all software for experiments and writing paper to submit to upcoming ICML workshop on distribution shifts. 
 
   - title: Advanced Software Tool Developer | Consultant
     company: Amazon, Project Kuiper - Research & Development
