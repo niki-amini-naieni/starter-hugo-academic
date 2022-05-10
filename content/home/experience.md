@@ -30,7 +30,7 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
-      Working with collaborators to develop a novel deep learning algorithm that adversarially learns data augmentations to improve domain generalization. Developing all software for experiments and writing paper to submit to upcoming machine learning conference. 
+      Working with collaborators to develop a novel domain generalization algorithm that adversarially trains a deep learning model to learn data augmentations. Developing all software for experiments and writing paper to submit to upcoming ICML workshop on distribution shifts. 
 
   - title: Advanced Software Tool Developer | Consultant
     company: Amazon, Project Kuiper - Research & Development
