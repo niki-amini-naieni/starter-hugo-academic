@@ -6,13 +6,15 @@ tags:
 date: '2020-01-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.cs.cornell.edu/courses/cs4700/2020sp/'
+external_link: ''
 
 image:
   caption: ''
   focal_point: ''
 
 links:
+  - name: Course Website
+    url: https://www.cs.cornell.edu/courses/cs4700/2020sp/
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -25,3 +27,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+As a Teaching Assistant for _Foundations of Artificial Intelligence_ at Cornell, I held office hours, graded students' projects and homework assignments, provided written and verbal feedback on students' work, and answered students' questions about course material.
